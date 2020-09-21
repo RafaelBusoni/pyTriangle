@@ -1,4 +1,5 @@
-#Here's some code witch will help you in checking if triangle exist
+# You put length of the sides of the triangle as input parameters.
+#Here's some code whitch will help you in checking if triangle exist
 
 class Triangle:
 
